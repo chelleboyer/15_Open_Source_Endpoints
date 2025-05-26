@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+15_open_source_endpoints.egg-info/PKG-INFO
+15_open_source_endpoints.egg-info/SOURCES.txt
+15_open_source_endpoints.egg-info/dependency_links.txt
+15_open_source_endpoints.egg-info/requires.txt
+15_open_source_endpoints.egg-info/top_level.txt
+Application_Start/app.py
+Application_Start/solution_app.py
